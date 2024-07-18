@@ -1,0 +1,19 @@
+.nav__menu{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2.5rem;
+  background-color: #111;
+}
+.nav__list{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.nav__item{
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+}
