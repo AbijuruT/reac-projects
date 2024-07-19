@@ -1,0 +1,27 @@
+.main__content{
+  background-image: url(../assets/react.svg);
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position: right 75%;
+  padding: 6rem 4.5rem;
+  color: #fff;
+}
+.main__title{
+  margin: 0;
+  font-size: 3.5rem;
+  letter-spacing: -0.05em;
+}
+.fact__list{
+  margin-top: 3.5rem;
+  margin-left: 3rem;
+  max-width: 400px;
+}
+
+.fact__item{
+  line-height: 19px;
+  padding-block: 10px;
+}
+.fact__item::marker{
+  font-size: 1.4rem;
+  color: #61DAFB;
+}
